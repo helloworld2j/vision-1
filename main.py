@@ -11,7 +11,7 @@ counter=0
 
 face_m= False
 
-ref=cv2.imread("E:\opencv\WIN_20240127_18_23_21_Pro.jpg")
+ref=cv2.imread("your image")
 
 def face_check(frame):
     global face_m
